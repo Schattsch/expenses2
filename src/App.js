@@ -7,11 +7,13 @@ import NewExpense from "./components/NewExpense/NewExpense";
 
 const DUMMY_EXPENSES = [
     {
+        id: 'e1',
         date: new Date(2023,0,10),
         title: 'New book',
         price: 30.99
     },
     {
+        id: 'e2',
         date: new Date(2023,0,10),
         title: 'New jeans',
         price: 99.99
@@ -30,7 +32,7 @@ const App = () => {
     return (
     <div className="App">
         <NewExpense onAddExpense={addExpensehandler}></NewExpense>
-        <Expenses expenses={DUMMY_EXPENSES}></Expenses>
+        <Expenses expenses={expenses}></Expenses>
     </div>
   );
 }

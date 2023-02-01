@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Ülesanne 3 - Andmete suunamine (bottom-up) ja väärtuse hetkeseisu lugemine ning määramine + Andmete kuvamine nimekirjast">
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Vormiandmete kasutamine nimekirja moodustamisel">
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675255378303</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Vormiandmete kasutamine nimekirja moodustamisel">
+      <created>1675255712449</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675255712449</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +221,7 @@
     <MESSAGE value="Andmete edastamine alamkomponendist ülemkomponendile (bottom-up) (PART 1)" />
     <MESSAGE value="Andmete edastamine alamkomponendist ülemkomponendile (bottom-up) (PART 2)" />
     <MESSAGE value="Ülesanne 3 - Andmete suunamine (bottom-up) ja väärtuse hetkeseisu lugemine ning määramine + Andmete kuvamine nimekirjast" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 3 - Andmete suunamine (bottom-up) ja väärtuse hetkeseisu lugemine ning määramine + Andmete kuvamine nimekirjast" />
+    <MESSAGE value="Vormiandmete kasutamine nimekirja moodustamisel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vormiandmete kasutamine nimekirja moodustamisel" />
   </component>
 </project>
