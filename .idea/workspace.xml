@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Funktsioonide kirjutamine array funktsioonina">
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" afterDir="false" />
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="useState hook">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +20,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2L8BqLRSmc40SDxUX4csB4HX9za" />
   <component name="ProjectViewState">
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675243018535</updated>
-      <workItem from="1675243019657" duration="5548000" />
+      <workItem from="1675243019657" duration="6247000" />
     </task>
     <task id="LOCAL-00001" summary="Uue komponendi loomine ja kujundamine">
       <created>1675244008954</created>
@@ -138,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675249181221</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="useState hook">
+      <created>1675249571760</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675249571760</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +173,7 @@
     <MESSAGE value="ExpenseItem ümber kujundamine olemasoleva komponendi abil" />
     <MESSAGE value="Komponentide organiseerimine oma projektis" />
     <MESSAGE value="Funktsioonide kirjutamine array funktsioonina" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funktsioonide kirjutamine array funktsioonina" />
+    <MESSAGE value="useState hook" />
+    <option name="LAST_COMMIT_MESSAGE" value="useState hook" />
   </component>
 </project>
