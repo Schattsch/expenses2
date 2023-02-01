@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Andmete edastamine alamkomponendist ülemkomponendile (bottom-up) (PART 2)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Ülesanne 3 - Andmete suunamine (bottom-up) ja väärtuse hetkeseisu lugemine ning määramine + Andmete kuvamine nimekirjast">
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675253422664</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Ülesanne 3 - Andmete suunamine (bottom-up) ja väärtuse hetkeseisu lugemine ning määramine + Andmete kuvamine nimekirjast">
+      <created>1675255378303</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675255378303</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +212,7 @@
     <MESSAGE value="Vormi andmete saatmise töötlus" />
     <MESSAGE value="Andmete edastamine alamkomponendist ülemkomponendile (bottom-up) (PART 1)" />
     <MESSAGE value="Andmete edastamine alamkomponendist ülemkomponendile (bottom-up) (PART 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Andmete edastamine alamkomponendist ülemkomponendile (bottom-up) (PART 2)" />
+    <MESSAGE value="Ülesanne 3 - Andmete suunamine (bottom-up) ja väärtuse hetkeseisu lugemine ning määramine + Andmete kuvamine nimekirjast" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 3 - Andmete suunamine (bottom-up) ja väärtuse hetkeseisu lugemine ning määramine + Andmete kuvamine nimekirjast" />
   </component>
 </project>
