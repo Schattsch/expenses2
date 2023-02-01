@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Abikomponentide loomine">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseItem.js" afterDir="false" />
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Funktsioonide kirjutamine array funktsioonina">
+      <change beforePath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Karel\WebstormProjects\expenses2\src\components\Expenses" />
+      <recent name="C:\Users\Karel\WebstormProjects\expenses2\src\components\UI" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -68,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675243018535</updated>
-      <workItem from="1675243019657" duration="5248000" />
+      <workItem from="1675243019657" duration="5548000" />
     </task>
     <task id="LOCAL-00001" summary="Uue komponendi loomine ja kujundamine">
       <created>1675244008954</created>
@@ -112,7 +117,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675247434045</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ExpenseItem ümber kujundamine olemasoleva komponendi abil">
+      <created>1675249042139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675249042139</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Komponentide organiseerimine oma projektis">
+      <created>1675249096700</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675249096700</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Funktsioonide kirjutamine array funktsioonina">
+      <created>1675249181221</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675249181221</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +162,9 @@
     <MESSAGE value="Ülesanne 1 - kujunduse rakendamine komponendile" />
     <MESSAGE value="Ülesanne 2 - ümbritseva komponendi loomine ja kujundamine" />
     <MESSAGE value="Abikomponentide loomine" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abikomponentide loomine" />
+    <MESSAGE value="ExpenseItem ümber kujundamine olemasoleva komponendi abil" />
+    <MESSAGE value="Komponentide organiseerimine oma projektis" />
+    <MESSAGE value="Funktsioonide kirjutamine array funktsioonina" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funktsioonide kirjutamine array funktsioonina" />
   </component>
 </project>
