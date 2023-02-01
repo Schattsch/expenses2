@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Ülesanne 1 - kujunduse rakendamine komponendile">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Ülesanne 2 - ümbritseva komponendi loomine ja kujundamine" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675243018535</updated>
-      <workItem from="1675243019657" duration="3723000" />
+      <workItem from="1675243019657" duration="4048000" />
     </task>
     <task id="LOCAL-00001" summary="Uue komponendi loomine ja kujundamine">
       <created>1675244008954</created>
@@ -98,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675246003827</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ülesanne 2 - ümbritseva komponendi loomine ja kujundamine">
+      <created>1675246989630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675246989630</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +124,7 @@
     <MESSAGE value="Komponendi sisustamine andmetega" />
     <MESSAGE value="Komponendi jaotamine mitmeks komponendiks" />
     <MESSAGE value="Ülesanne 1 - kujunduse rakendamine komponendile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 1 - kujunduse rakendamine komponendile" />
+    <MESSAGE value="Ülesanne 2 - ümbritseva komponendi loomine ja kujundamine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 2 - ümbritseva komponendi loomine ja kujundamine" />
   </component>
 </project>
