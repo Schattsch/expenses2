@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Revert &quot;Kasutaja sisendi kuulamine&quot;&#10;&#10;This reverts commit 54a0fbdd">
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Loetud sisendi kasutamine REVERT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
     </list>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675249571760</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Loetud sisendi kasutamine REVERT">
+      <created>1675252358840</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675252358840</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +181,7 @@
     <MESSAGE value="Komponentide organiseerimine oma projektis" />
     <MESSAGE value="Funktsioonide kirjutamine array funktsioonina" />
     <MESSAGE value="useState hook" />
-    <option name="LAST_COMMIT_MESSAGE" value="useState hook" />
+    <MESSAGE value="Loetud sisendi kasutamine REVERT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loetud sisendi kasutamine REVERT" />
   </component>
 </project>
