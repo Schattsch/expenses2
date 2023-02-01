@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Komponendi sisustamine andmetega">
-      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseItem.js" afterDir="false" />
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Komponendi jaotamine mitmeks komponendiks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExpenseDate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseDate.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675243018535</updated>
-      <workItem from="1675243019657" duration="2215000" />
+      <workItem from="1675243019657" duration="2711000" />
     </task>
     <task id="LOCAL-00001" summary="Uue komponendi loomine ja kujundamine">
       <created>1675244008954</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675244890326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Komponendi jaotamine mitmeks komponendiks">
+      <created>1675245546543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675245546543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uue komponendi loomine ja kujundamine" />
     <MESSAGE value="Komponendi sisustamine andmetega" />
-    <option name="LAST_COMMIT_MESSAGE" value="Komponendi sisustamine andmetega" />
+    <MESSAGE value="Komponendi jaotamine mitmeks komponendiks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Komponendi jaotamine mitmeks komponendiks" />
   </component>
 </project>

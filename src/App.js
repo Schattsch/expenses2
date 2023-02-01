@@ -18,6 +18,7 @@ function App() {
     <div className="App">
       <ExpenseItem expenseData={expenses[0]}></ExpenseItem>
       <ExpenseItem expenseData={expenses[1]}></ExpenseItem>
+
     </div>
   );
 }
