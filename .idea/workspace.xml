@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="useState hook">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Vormitöötlus">
+      <change beforePath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675243018535</updated>
-      <workItem from="1675243019657" duration="6247000" />
+      <workItem from="1675243019657" duration="6570000" />
     </task>
     <task id="LOCAL-00001" summary="Uue komponendi loomine ja kujundamine">
       <created>1675244008954</created>
@@ -146,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675249571760</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Vormitöötlus">
+      <created>1675250281686</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675250281686</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +180,7 @@
     <MESSAGE value="Komponentide organiseerimine oma projektis" />
     <MESSAGE value="Funktsioonide kirjutamine array funktsioonina" />
     <MESSAGE value="useState hook" />
-    <option name="LAST_COMMIT_MESSAGE" value="useState hook" />
+    <MESSAGE value="Vormitöötlus" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vormitöötlus" />
   </component>
 </project>
