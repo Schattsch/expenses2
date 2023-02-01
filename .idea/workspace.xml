@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Andmete kuvamine sõltuvalt tingimusest">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
-    </list>
+    <list default="true" id="6a1a1137-707e-4f8f-9ea2-f74a035a1e2a" name="Changes" comment="Eraldi komponendi abil" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675257458385</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Eraldi komponendi abil">
+      <created>1675258796486</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675258796486</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +250,7 @@
     <MESSAGE value="Milleks komponendile keys?" />
     <MESSAGE value="Ülesanne 4 - aasta järgi filtreeritud andmete kuvamine" />
     <MESSAGE value="Andmete kuvamine sõltuvalt tingimusest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Andmete kuvamine sõltuvalt tingimusest" />
+    <MESSAGE value="Eraldi komponendi abil" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eraldi komponendi abil" />
   </component>
 </project>
